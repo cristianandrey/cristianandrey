@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
- <br>Soy Tecnologo & desarrollador web con experiencia en desarrollador web de proyectos React js, angular js y desarrollo de applicaciones en android studio -java -Firebase. Durante mi trayectoria he podido aprender y perfeccionar conocimientos que me han ayudado a construir un perfil específico. En la actualidad estoy buscando un trabajo que me ayude a seguir ampliando mi experiencia y que me permita asumir nuevas responsabilidades.
+ <br>Soy Tecnologo & desarrollador web con experiencia en desarrollador web de proyectos React js, angular js y desarrollo de applicaciones en android studio -java -Firebase. Durante mi trayectoria he podido aprender y perfeccionar conocimientos que me han ayudado a construir un perfil específico.
 
 
 ## 🌐 Socials:
