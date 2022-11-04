@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Cristian Andrey 👋
 
 <!--
 **cristianandrey/cristianandrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
-Hi, I'm Cristian Andrey <br>Soy desarrollador web<br>About me:<br>Tecnologo & desarrollador web con experiencia en desarrollador web de proyectos React js, angular js y desarrollo de applicaciones en android studio -java -Firebase. Durante mi trayectoria he podido aprender y perfeccionar conocimientos que me han ayudado a construir un perfil específico. En la actualidad estoy buscando un trabajo que me ayude a seguir ampliando mi experiencia y que me permita asumir nuevas responsabilidades.
+<br>Soy <br>Tecnologo & desarrollador web con experiencia en desarrollador web de proyectos React js, angular js y desarrollo de applicaciones en android studio -java -Firebase. Durante mi trayectoria he podido aprender y perfeccionar conocimientos que me han ayudado a construir un perfil específico. En la actualidad estoy buscando un trabajo que me ayude a seguir ampliando mi experiencia y que me permita asumir nuevas responsabilidades.
 
 
 ## 🌐 Socials:
